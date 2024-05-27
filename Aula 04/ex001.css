@@ -1,0 +1,12 @@
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* BODY */
+body {
+  background-color: #808080;
+  color: #ffff;
+  font: normal 20pt arial;
+}
